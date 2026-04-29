@@ -1,92 +1,18 @@
-# 👋 Hi, I'm Venkatesh Rajendran  
+# 💫 About Me:
+Hi, I'm Venkatesh Rajendran<br><br>Bioinformatician | Long-read Sequencing | Variant Analysis | Transcriptomics<br><br>I work on long-read sequencing data (Oxford Nanopore Technologies) and transcriptomics with a focus on whole genome analysis, variant detection, and disease-associated regions.<br><br>Currently working on PromethION P2 Solo datasets, developing workflows for rare genetic disorders and imprinting-related regions (e.g., H19), along with RNA-seq and single-cell RNA-seq data analysis.<br><br>Current Work<br><br>Long-read WGS analysis using ONT data<br>Variant calling (SNP, CNV, SV, STR) using EPI2ME workflows<br>Methylation analysis from nanopore sequencing<br>Transcriptomics analysis (bulk RNA-seq)<br>Single-cell RNA-seq (scRNA-seq) data exploration<br>Targeted analysis of imprinting disorder regions<br>Coverage analysis and enrichment validation<br><br>Skills & Tools<br><br>Bioinformatics & NGS<br><br>Whole Genome Sequencing (WGS)<br>Long-read sequencing (Oxford Nanopore Technologies)<br>Transcriptomics (bulk RNA-seq)<br>Single-cell RNA-seq (scRNA-seq)<br>Variant analysis: SNPs, CNVs, SVs, STRs<br>Methylation analysis (ONT)<br><br>Tools & Pipelines<br><br>fastp, FastQC<br>minimap2, Winnowmap<br>samtools, bcftools<br>EPI2ME (wf-human-variation)<br>Dorado (basecalling)<br><br>Programming<br><br>Python (data handling and scripting)<br>Bash (pipeline automation)<br>Git and GitHub<br><br>Additional Expertise<br><br>BED file design (target panels, imprinting disorders)<br>Phylogenetic analysis (IQ-TREE)<br>Homology modelling (MODELLER, Swiss-Model, Robetta)<br><br>Selected Projects<br><br>Long-read WGS Variant Analysis (ONT)<br><br>Analysed PromethION P2 Solo sequencing data<br>Performed SNP, CNV, SV, STR calling using EPI2ME workflow<br>Generated structured reports for each variant category<br>Interpreted variant outputs across multiple samples<br><br>Imprinting Disorder Gene Panel Design<br><br>Designed BED file covering 11 imprinting disorders<br>Included pharmacogenomics genes (CYP2C19, CYP2D6, HLA-B)<br>Integrated WHO and AMP gene lists<br>Applied for targeted sequencing and coverage analysis<br><br>RNA-seq Preprocessing Pipeline<br><br>Built pipeline using fastp and FastQC<br>Automated quality control and filtering<br>Applied to bulk RNA-seq datasets<br><br>Single-cell RNA-seq Analysis<br><br>Performed initial exploration and preprocessing of scRNA-seq data<br>Focused on quality control and data interpretation<br><br>Phylogenetic Analysis<br><br>Performed phylogenetic tree construction using IQ-TREE<br>Worked with curated FASTA datasets<br>Interpreted evolutionary relationships<br><br>Protein Structure Modelling<br><br>Modelled protein structures using MODELLER, Swiss-Model, and Robetta<br>Compared model quality and structural accuracy<br><br>Research Interests<br><br>Rare genetic disorders<br>Imprinting disorders<br>Transcriptomics and single-cell analysis<br>Long-read sequencing<br>Structural variation and methylation<br>Clinical genomics<br><br>Connect with Me<br><br>GitHub: https://github.com/VENKATESH-282<br>LinkedIn: https://www.linkedin.com/in/venkatesh-r-362a9426b/
 
-## 🧬 Bioinformatician | Long-read Sequencing | Variant Analysis  
 
-I work on **long-read sequencing (Oxford Nanopore Technologies)** with a focus on **whole genome analysis, variant detection, and disease-associated regions**.  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/venkatesh-r-362a9426b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venkatbioinfo282@gmail.com) 
 
-Currently working with **PromethION P2 Solo datasets**, developing workflows for **rare genetic disorders and imprinting regions (e.g., H19)**.
-
----
-
-## 🔬 Current Work
-- Long-read WGS analysis (ONT data)  
-- Variant calling: SNP, CNV, SV, STR (EPI2ME workflows)  
-- Methylation analysis from nanopore sequencing  
-- Targeted analysis of imprinting disorder regions  
-- Coverage analysis and enrichment validation  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=venkatesh282&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=venkatesh282&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=venkatesh282&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=venkatesh282&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ⚙️ Core Skills  
-
-### 🧪 Bioinformatics
-- Whole Genome Sequencing (WGS)  
-- Long-read sequencing (ONT)  
-- Variant analysis: SNPs, CNVs, SVs, STRs  
-- Methylation analysis  
-
-### 🛠️ Tools
-- fastp, FastQC  
-- minimap2, Winnowmap  
-- samtools, bcftools  
-- EPI2ME (wf-human-variation)  
-- Dorado  
-
-### 💻 Programming
-- Python  
-- Bash  
-- Git  
-
-### 🧬 Additional
-- BED file design (imprinting panels)  
-- Phylogenetics (IQ-TREE)  
-- Homology modelling (MODELLER, Swiss-Model, Robetta)  
-
----
-
-## 🚀 Key Projects  
-
-### 🧬 Long-read WGS Variant Analysis
-- Analysed PromethION ONT datasets  
-- Performed SNP, CNV, SV, STR calling  
-- Generated structured reports and interpretations  
-
-### 🧪 Imprinting Disorder Panel Design
-- Designed BED file for 11 imprinting disorders  
-- Included pharmacogenomics genes (CYP2C19, CYP2D6, HLA-B)  
-- Applied for targeted sequencing analysis  
-
-### 🧾 RNA-seq Preprocessing Pipeline
-- Built QC pipeline using fastp and FastQC  
-- Automated filtering for bulk RNA-seq data  
-
-### 🌳 Phylogenetic Analysis
-- Constructed phylogenetic trees using IQ-TREE  
-- Analysed curated FASTA datasets  
-
-### 🧬 Protein Structure Modelling
-- Used MODELLER, Swiss-Model, and Robetta  
-- Compared structural quality of predicted models  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VENKATESH-282&show_icons=true)
-
----
-
-## 📌 Research Interests  
-- Rare genetic disorders  
-- Imprinting disorders  
-- Long-read sequencing  
-- Structural variation & methylation  
-- Clinical genomics  
-
----
-
-## 📫 Connect  
-- GitHub: https://github.com/VENKATESH-282  
-- LinkedIn: https://www.linkedin.com/in/venkatesh-r-362a9426b/  
-- Email: venkatbioinfo282@gmail.com  
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
